@@ -28,9 +28,10 @@ Feature engineering
 
 Visualizations using matplotlib & seaborn
 
+Correlation heatmaps
+
 ![image](https://github.com/user-attachments/assets/49e9e293-b525-4fcf-aa17-18990250408f)
 
-Correlation heatmaps
 
 Histogram of temperature distribution
 
@@ -47,6 +48,10 @@ Deep MLP
 Autoendcoder + MLP
 
 
+a GUI for easier monitoring:
+![Screenshot 2025-04-30 071003](https://github.com/user-attachments/assets/227eaa97-c8b7-4239-8dbc-03f8996aab96)
+![Screenshot 2025-04-30 071022](https://github.com/user-attachments/assets/fe69476f-cd58-45a4-b47b-a5c3eec2f023)
+![Screenshot 2025-04-30 071044](https://github.com/user-attachments/assets/1469a6fd-ddaf-4812-8370-74c464c9a0bd)
 
 
 🛠 Installation & Usage
