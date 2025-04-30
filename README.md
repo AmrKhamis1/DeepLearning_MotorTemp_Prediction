@@ -1,4 +1,4 @@
-🚀 Electric Motor Temperature Prediction - Machine Learning Project
+🚀 Electric Motor Temperature Prediction - Deep Learning Project
 
 📌 Overview
 
