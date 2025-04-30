@@ -2,7 +2,7 @@
 
 📌 Overview
 
-This project uses Machine Learning (ML) models to predict electric motor temperature based on sensor data. The dataset includes various factors affecting motor temperature, such as ambient temperature and rotational speed.
+This project is a NCTU Assignment uses Deep Learning (DL) models to predict electric motor temperature based on sensor data. The dataset includes various factors affecting motor temperature, such as ambient temperature and rotational speed.
 
 📊 Dataset
 
@@ -12,30 +12,6 @@ Features: ['u_q', 'coolant','u_d', 'stator_tooth','motor_speed', 'i_d', 'i_q', '
 
 Target: ['stator_winding']
 
-🔬 Deep Learning Workflow
-
-1️⃣ Data Preprocessing
-
-Load dataset using pandas
-
-Handle missing values and outliers
-
-Normalize numerical features using StandardScaler
-
-Feature engineering
-
-2️⃣ Exploratory Data Analysis (EDA)
-
-Visualizations using matplotlib & seaborn
-
-Correlation heatmaps
-
-![image](https://github.com/user-attachments/assets/49e9e293-b525-4fcf-aa17-18990250408f)
-
-
-Histogram of temperature distribution
-
-3️⃣ Model Training
 
 We trained multiple ML models to predict motor temperature:
 
